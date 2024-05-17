@@ -1,0 +1,32 @@
+.calc
+{
+    width: 400px;
+    height: 600px;
+    background: grey;
+    margin-left: 500px;
+}
+#screen{
+    width: 70%;
+    margin-left: 50px;
+    height: 70px;
+    margin-top: 28px;
+    pointer-events: none;
+}
+.btn{
+    width: 45px;
+    height: 45px;
+    margin-left: 40px;
+    margin-top: 30px;
+    background-color: white;
+
+
+}
+.clr-btn{
+    width: 100px;
+    height: 100px;
+    margin-left: 40px;
+    margin-top: 45px;
+    background-color: white;
+    margin-left: 37.5%;
+
+}
